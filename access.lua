@@ -1,5 +1,5 @@
 return {
-    FREE_DAY = false,
+    FREE_DAY = true,
     ALLOWED_USERS = {
         "N4rczis0",
         "XxsebasxX9009", -- 1 hora empieza 2:24 termina 3:24
