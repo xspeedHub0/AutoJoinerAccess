@@ -2,8 +2,11 @@ name: Update Users Time
 
 on:
   schedule:
+
     - cron: "* * * * *"   # 
   workflow_dispatch:       # 
+    - cron: "* * * * *"   # cada minuto
+  workflow_dispatch:       # para ejecutarlo manual también
 
 jobs:
   update:
