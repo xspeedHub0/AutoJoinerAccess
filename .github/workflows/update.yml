@@ -2,35 +2,29 @@ name: Update Users Time
 
 on:
   schedule:
-
-    - cron: "* * * * *"   # 
-  workflow_dispatch:       # 
-    - cron: "* * * * *"   # cada minuto
-  workflow_dispatch:       # para ejecutarlo manual también
+    - cron: "* * * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Configurar Node.js
+      - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
-      - name: Ejecutar script
+      - name: Run script
         run: node update.js
 
-      - name: Commit y push
+      - name: Commit changes
         run: |
           git config user.name "auto-bot"
           git config user.email "bot@users.noreply.github.com"
-
           git add users.txt
-          
-          git commit -m "⏱️ update timers" || echo "no changes"
-
+          git commit -m "update timers" || echo "no changes"
           git push
