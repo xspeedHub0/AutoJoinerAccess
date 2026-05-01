@@ -1,0 +1,28 @@
+name: Update Users Time
+
+on:
+  schedule:
+    - cron: "* * * * *" 
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run script
+        run: node update.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add users.txt
+          git commit -m "update timers" || echo "no changes"
+          git push
