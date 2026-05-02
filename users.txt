@@ -1,1 +1,1 @@
-juan12 = 15m // 15m restantes #1777678290
+juan12 = expired // 0m restantes
