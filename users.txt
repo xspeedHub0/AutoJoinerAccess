@@ -1,1 +1,3 @@
 juan12 = expired // 0m restantes
+pepe = 1m
+prueba = 20m
