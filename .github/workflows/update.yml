@@ -2,7 +2,7 @@ name: Update Users Time
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch:
 
 jobs:
