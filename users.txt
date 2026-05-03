@@ -1,3 +1,2 @@
-manu_BB78 = 1d
 Luca64495 = 1d
 N4rczis0 = 1d // 20h restantes #1777790073
