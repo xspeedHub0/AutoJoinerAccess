@@ -1,5 +1,3 @@
-juan12 = expired // 0m restantes
-pepe = expired // 0m restantes
-prueba = expired // 0m restantes
-neank = 1d // 8h restantes #1777746747
+manu_BB78 = 1d
+Luca64495 = 1d
 N4rczis0 = 1d // 20h restantes #1777790073
