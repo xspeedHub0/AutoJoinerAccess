@@ -1,5 +1,5 @@
 juan12 = expired // 0m restantes
 pepe = expired // 0m restantes
 prueba = expired // 0m restantes
-neank = 1d // 10h restantes #1777746747
-N4rczis0 = 1d // 22h restantes #1777790073
+neank = 1d // 8h restantes #1777746747
+N4rczis0 = 1d // 20h restantes #1777790073
