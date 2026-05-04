@@ -1,2 +1,2 @@
 Luca64495 = expired // 0m restantes
-N4rczis0 = 1d // 11h restantes #1777887267
+N4rczis0 = 1d // 10h restantes #1777887267
