@@ -1,2 +1,2 @@
-Luca64495 = 1d // 6h restantes #1777804747
-N4rczis0 = 1d // 2h restantes #1777790073
+Luca64495 = 1d // 3h restantes #1777804747
+N4rczis0 = expired // 0m restantes
