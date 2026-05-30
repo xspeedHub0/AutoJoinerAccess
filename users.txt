@@ -1,4 +1,1 @@
-Luca64495 = expired // 0m restantes
-N4rczis0 = expired // 0m restantes
-YUSIFSNDI75 = expired // 0m restantes
-hola1001860 = expired // 0m restantes
+N4rczis0 = 7d
