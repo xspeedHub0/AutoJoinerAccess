@@ -1,1 +1,1 @@
-N4rczis0 = 7d // 29h restantes #1780114313
+N4rczis0 = 7d // 27h restantes #1780114313
