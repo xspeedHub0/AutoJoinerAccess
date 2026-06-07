@@ -1,1 +1,1 @@
-N4rczis0 = 7d // 147h restantes #1780784264
+N4rczis0 = 7d // 146h restantes #1780784264
