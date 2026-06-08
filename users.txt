@@ -1,3 +1,3 @@
-N4rczis0 = 7d // 142h restantes #1780784264
-FOLOTRAX = 1d
-partmmmmmm = 1d
+N4rczis0 = 7d // 140h restantes #1780784264
+FOLOTRAX = 1d // 24h restantes #1780884351
+partmmmmmm = 1d // 24h restantes #1780884351
