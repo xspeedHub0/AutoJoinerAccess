@@ -1,2 +1,2 @@
-N4rczis0 = 7d // 97h restantes #1780784264
-Aleman90196 = 5h
+N4rczis0 = 7d // 96h restantes #1780784264
+Aleman90196 = 5h // 5h restantes #1781042738
