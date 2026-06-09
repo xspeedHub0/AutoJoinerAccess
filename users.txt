@@ -1,3 +1,2 @@
 N4rczis0 = 7d // 97h restantes #1780784264
-FOLOTRAX = expired // 0m restantes
-partmmmmmm = expired // 0m restantes
+Aleman90196 = 5h
