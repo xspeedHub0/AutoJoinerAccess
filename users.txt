@@ -1,2 +1,2 @@
-N4rczis0 = 7d // 80h restantes #1780784264
+N4rczis0 = 7d // 76h restantes #1780784264
 Aleman90196 = expired // 0m restantes
