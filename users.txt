@@ -1,2 +1,2 @@
-N4rczis0 = 7d // 26h restantes #1780784264
-Tyet691 = 8d // 170h restantes #1781216785
+N4rczis0 = 7d // 24h restantes #1780784264
+Tyet691 = 8d // 168h restantes #1781216785
