@@ -1,3 +1,3 @@
-N4rczis0 = 12d // 284h restantes #1781447143
-Tyet691 = 8d // 124h restantes #1781216785
-Herman08686 = 30d // 696h restantes #1781373532
+N4rczis0 = 12d // 283h restantes #1781447143
+Tyet691 = 8d // 123h restantes #1781216785
+Herman08686 = 30d // 694h restantes #1781373532
