@@ -1,3 +1,3 @@
 N4rczis0 = expired // 0m restantes
-Tyet691 = 8d // 140h restantes #1781216785
-Herman08686 = 30d // 712h restantes #1781373532
+Tyet691 = 8d // 136h restantes #1781216785
+Herman08686 = 30d // 707h restantes #1781373532
