@@ -1,4 +1,5 @@
 N4rczis000 = 12d // 258h restantes #1781447143
 Tyet691 = 8d // 98h restantes #1781216785
+JoSu_RV = 14d
 ramo434359_max = 30d // 705h restantes #1781501256
 Herman08686 = 30d // 669h restantes #1781373532
