@@ -1,4 +1,4 @@
 N4rczis0 = 12d // 278h restantes #1781447143
 Tyet691 = 8d // 118h restantes #1781216785
-Buy ZL VIP = 2d
+ramo434359_max = 30d
 Herman08686 = 30d // 689h restantes #1781373532
