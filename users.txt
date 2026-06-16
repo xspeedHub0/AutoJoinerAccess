@@ -1,4 +1,5 @@
 N4rczis000 = 12d // 235h restantes #1781447143
+67is_thebest234 = 30d
 Yanis300510 = 14d // 332h restantes #1781623754
 Tyet691 = 8d // 75h restantes #1781216785
 JoSu_RV = 14d // 315h restantes #1781562348
