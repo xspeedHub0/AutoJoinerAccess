@@ -1,8 +1,8 @@
-N4rczis000 = 12d // 243h restantes #1781447143
-Yanis300510 = 14d
-Tyet691 = 8d // 83h restantes #1781216785
-JoSu_RV = 14d // 323h restantes #1781562348
-chevaliernoir726 = 6d // 131h restantes #1781562348
-rtyrtyrty20123 = 14d // 323h restantes #1781562348
-ramo434359_max = 30d // 690h restantes #1781501256
-Herman08686 = 30d // 655h restantes #1781373532
+N4rczis000 = 12d // 238h restantes #1781447143
+Yanis300510 = 14d // 336h restantes #1781623754
+Tyet691 = 8d // 78h restantes #1781216785
+JoSu_RV = 14d // 318h restantes #1781562348
+chevaliernoir726 = 6d // 126h restantes #1781562348
+rtyrtyrty20123 = 14d // 318h restantes #1781562348
+ramo434359_max = 30d // 685h restantes #1781501256
+Herman08686 = 30d // 650h restantes #1781373532
