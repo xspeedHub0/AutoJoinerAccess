@@ -1,6 +1,6 @@
 N4rczis000 = expired // 0m restantes
 Arsei_2011 = 13d // 240h restantes #1782421339
-67is_thebest234 = 30d // 433h restantes #1781646352
+67is_thebest234 = 1000d
 Migizin19 = 20d // 202h restantes #1781679099
 Yanis300510 = 14d // 42h restantes #1781623754
 JoSu_RV = 14d // 25h restantes #1781562348
