@@ -1,9 +1,9 @@
 N4rczis000 = expired // 0m restantes
-Arsei_2011 = 13d // 105h restantes #1782421339
-67is_thebest234 = 1000d // 23866h restantes #1782683210
-Migizin19 = 20d // 67h restantes #1781679099
+Arsei_2011 = 13d // 104h restantes #1782421339
+67is_thebest234 = 1000d // 23864h restantes #1782683210
+Migizin19 = 20d // 66h restantes #1781679099
 Yanis300510 = expired // 0m restantes
 JoSu_RV = expired // 0m restantes
 rtyrtyrty20123 = expired // 0m restantes
-ramo434359_max = 30d // 257h restantes #1781501256
-Herman08686 = 30d // 222h restantes #1781373532
+ramo434359_max = 30d // 256h restantes #1781501256
+Herman08686 = 30d // 221h restantes #1781373532
