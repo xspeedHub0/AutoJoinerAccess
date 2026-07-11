@@ -1,11 +1,11 @@
 N4rczis000 = expired // 0m restantes
 Arsei_2011 = expired // 0m restantes
-elquesellama_real = 10d // 210h restantes #1783657631
-rtyrtyrty20123 = 13d // 227h restantes #1783460799
-67is_thebest234 = 1000d // 23699h restantes #1782683210
+elquesellama_real = 10d // 209h restantes #1783657631
+rtyrtyrty20123 = 13d // 226h restantes #1783460799
+67is_thebest234 = 1000d // 23698h restantes #1782683210
 Migizin19 = expired // 0m restantes
 Yanis300510 = expired // 0m restantes
 JoSu_RV = expired // 0m restantes
 rtyrtyrty20123 = expired // 0m restantes
-ramo434359_max = 30d // 91h restantes #1781501256
-Herman08686 = 30d // 56h restantes #1781373532
+ramo434359_max = 30d // 90h restantes #1781501256
+Herman08686 = 30d // 54h restantes #1781373532
