@@ -1,4 +1,4 @@
-N4rczis0 = 10d // 217h restantes #1784489496
+N4rczis0 = 10d // 215h restantes #1784489496
 elquesellama_real = expired // 0m restantes
-rtyrtyrty20123 = 13d // 3h restantes #1783460799
-67is_thebest234 = 1000d // 23475h restantes #1782683210
+rtyrtyrty20123 = 13d // 1h restantes #1783460799
+67is_thebest234 = 1000d // 23473h restantes #1782683210
