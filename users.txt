@@ -1,4 +1,4 @@
-N4rczis0 = 10d // 31h restantes #1784489496
-Spxalt273 = 10d // 235h restantes #1785220998
-Nocbitbase39 = 10d // 237h restantes #1785230846
-67is_thebest234 = 1000d // 23290h restantes #1782683210
+N4rczis0 = 10d // 30h restantes #1784489496
+Spxalt273 = 10d // 233h restantes #1785220998
+Nocbitbase39 = 10d // 236h restantes #1785230846
+67is_thebest234 = 1000d // 23288h restantes #1782683210
