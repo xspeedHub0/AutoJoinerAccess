@@ -1,5 +1,5 @@
-N4rczis0 = 10d // 3h restantes #1784489496
-Spxalt273 = 10d // 206h restantes #1785220998
-ZLHUB.NET = 3d // 50h restantes #1785264153
-Nocbitbase39 = 10d // 209h restantes #1785230846
-67is_thebest234 = 1000d // 23261h restantes #1782683210
+N4rczis0 = 10d // 2h restantes #1784489496
+Spxalt273 = 10d // 205h restantes #1785220998
+ZLHUB.NET = 3d // 49h restantes #1785264153
+Nocbitbase39 = 10d // 208h restantes #1785230846
+67is_thebest234 = 1000d // 23260h restantes #1782683210
