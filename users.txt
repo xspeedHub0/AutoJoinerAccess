@@ -1,6 +1,6 @@
-N4rczis0 = 20d // 368h restantes #1785961054
+N4rczis0 = 20d // 367h restantes #1785961054
 Spxalt273 = expired // 0m restantes
-Zarpadinho = 15d // 106h restantes #1785449761
-ZLHUB.NET = 100d // 2337h restantes #1786135926
+Zarpadinho = 15d // 105h restantes #1785449761
+ZLHUB.NET = 100d // 2336h restantes #1786135926
 Nocbitbase39 = expired // 0m restantes
-67is_thebest234 = 1000d // 22978h restantes #1782683210
+67is_thebest234 = 1000d // 22977h restantes #1782683210
