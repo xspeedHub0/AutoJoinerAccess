@@ -1,4 +1,4 @@
-N4rczis0 = 20d // 202h restantes #1785961054
+N4rczis0 = 20d // 201h restantes #1785961054
 Spxalt273 = expired // 0m restantes
 Zarpadinho = expired // 0m restantes
 ZLHUB.NET = 100d // 2170h restantes #1786135926
