@@ -3,4 +3,4 @@ Spxalt273 = expired // 0m restantes
 Zarpadinho = expired // 0m restantes
 ZLHUB.NET = 100d // 2023h restantes #1786135926
 Nocbitbase39 = expired // 0m restantes
-67is_thebest234 = 1000d // 22664h restantes #1782683210
+67is_thebest234 = 1000d // 22663h restantes #1782683210
