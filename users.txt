@@ -1,2 +1,2 @@
 ZLHUB.NET = 100d // 1891h restantes #1786135926
-Modreubasura = 7d
+Modreubasura = 14d
