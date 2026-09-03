@@ -1,3 +1,3 @@
-ZLHUB.NET = 100d // 1772h restantes #1786135926
-Modreubasura = 14d // 223h restantes #1787989858
-Julianog4321 = 14d // 223h restantes #1787989858
+ZLHUB.NET = 100d // 1767h restantes #1786135926
+Modreubasura = 14d // 218h restantes #1787989858
+Julianog4321 = 14d // 218h restantes #1787989858
