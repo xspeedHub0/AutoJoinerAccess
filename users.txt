@@ -1,2 +1,2 @@
-ZLHUB.NET = 100d // 397h restantes #1786135926
-N4rczis0 = 3d // 72h restantes #1793346335
+ZLHUB.NET = 100d // 390h restantes #1786135926
+N4rczis0 = 3d // 65h restantes #1793346335
